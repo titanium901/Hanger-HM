@@ -1,4 +1,4 @@
-# Hanger-HM
+# Hanger-HM / Виселица
 
 <a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fapps.apple.com%2Fru%2Fapp%2Fhanger-hm%2Fid1479547789&4&0" width="164" height="164" border="0" title="QR код"></a>
 
